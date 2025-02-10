@@ -1,0 +1,251 @@
+id,question,answer,category,language
+1,"Pourquoi je ne peux pas me connecter à mon compte ?","Vérifiez votre connexion Internet et assurez-vous que vos identifiants sont corrects.","Problème de connexion","fr"
+2,"Que faire si j'ai oublié mon mot de passe ?","Utilisez la fonctionnalité 'Mot de passe oublié' pour réinitialiser votre mot de passe.","Problème de connexion","fr"
+3,"Pourquoi mon compte est-il bloqué ?","Votre compte peut être bloqué après plusieurs tentatives de connexion échouées. Contactez le support.","Problème de connexion","fr"
+4,"Comment changer mon adresse email de connexion ?","Allez dans les paramètres du compte et mettez à jour votre adresse email.","Problème de connexion","fr"
+5,"Pourquoi je ne reçois pas le code de vérification ?","Vérifiez votre dossier spam ou attendez quelques minutes avant de réessayer.","Problème de connexion","fr"
+6,"Que faire si l'application ne reconnaît pas mes identifiants ?","Assurez-vous que vous utilisez la bonne version de l'application et que vos identifiants sont corrects.","Problème de connexion","fr"
+7,"Pourquoi l'application se ferme-t-elle lors de la connexion ?","Essayez de redémarrer l'application ou de réinstaller la dernière version.","Problème de connexion","fr"
+8,"Comment mettre à jour mes informations de connexion ?","Accédez à votre profil utilisateur et mettez à jour vos informations.","Problème de connexion","fr"
+9,"Pourquoi je ne peux pas accéder à mon compte après une mise à jour ?","Essayez de vous déconnecter et de vous reconnecter ou contactez le support.","Problème de connexion","fr"
+10,"Que faire si mon compte a été piraté ?","Changez immédiatement votre mot de passe et contactez le support.","Problème de connexion","fr"
+11,"Pourquoi je ne reçois pas l'email de réinitialisation de mot de passe ?","Vérifiez votre dossier spam ou attendez quelques minutes. Si le problème persiste, contactez le support.","Problème de connexion","fr"
+12,"Que faire si l'application affiche 'Compte introuvable' ?","Assurez-vous que vous utilisez le bon email ou nom d'utilisateur. Si nécessaire, créez un nouveau compte.","Problème de connexion","fr"
+13,"Pourquoi l'application me redirige vers une page blanche après la connexion ?","Cela peut être dû à un problème de cache. Essayez de vider le cache de l'application ou de la réinstaller.","Problème de connexion","fr"
+14,"Comment vérifier si mon compte est actif ?","Contactez le support technique avec votre email ou nom d'utilisateur pour vérifier l'état de votre compte.","Problème de connexion","fr"
+15,"Pourquoi l'application me demande-t-elle de me reconnecter constamment ?","Cela peut être dû à un problème de session. Essayez de mettre à jour l'application ou de réinitialiser vos paramètres de connexion.","Problème de connexion","fr"
+16,"Que faire si je ne reçois pas de réponse du support technique ?","Vérifiez que vous avez contacté le support via le bon canal et réessayez. Vous pouvez aussi consulter la FAQ.","Problème de connexion","fr"
+17,"Pourquoi l'application ne reconnaît-elle pas mon nouveau mot de passe ?","Assurez-vous que vous avez correctement enregistré le nouveau mot de passe. Si le problème persiste, réinitialisez-le à nouveau.","Problème de connexion","fr"
+18,"Comment résoudre un problème de connexion lente ?","Vérifiez votre connexion Internet et fermez les applications en arrière-plan pour libérer de la mémoire.","Problème de connexion","fr"
+19,"Pourquoi l'application affiche-t-elle une erreur de serveur ?","Cela peut être dû à une maintenance ou à un problème temporaire. Réessayez plus tard.","Problème de connexion","fr"
+20,"Que faire si je ne me souviens plus de mon nom d'utilisateur ?","Utilisez la fonctionnalité 'Nom d'utilisateur oublié' ou contactez le support avec votre email associé.","Problème de connexion","fr"
+21,"Pourquoi l'application ne me permet-elle pas de créer un nouveau compte ?","Vérifiez que vous remplissez tous les champs requis et que vous utilisez une adresse email valide.","Problème de connexion","fr"
+22,"Comment savoir si mon compte a été suspendu ?","Contactez le support technique pour obtenir des informations sur l'état de votre compte.","Problème de connexion","fr"
+23,"Pourquoi l'application affiche-t-elle 'Connexion expirée' ?","Votre session a probablement expiré. Reconnectez-vous pour continuer.","Problème de connexion","fr"
+24,"Que faire si je ne peux pas accéder à mon email de récupération ?","Contactez le support technique pour vérifier d'autres options de récupération de compte.","Problème de connexion","fr"
+25,"Pourquoi l'application ne fonctionne-t-elle pas après une mise à jour du système d'exploitation ?","Assurez-vous que l'application est compatible avec votre version du système d'exploitation. Sinon, attendez une mise à jour de l'application.","Problème de connexion","fr"
+veuillez les numérotez a partir de 51 et les traduire en anglais, et "ang" au lieu de "fr" : 1,"Pourquoi je ne peux pas me connecter à mon compte ?","Vérifiez votre connexion Internet et assurez-vous que vos identifiants sont corrects.","Problème de connexion","fr"
+2,"Que faire si j'ai oublié mon mot de passe ?","Utilisez la fonctionnalité 'Mot de passe oublié' pour réinitialiser votre mot de passe.","Problème de connexion","fr"
+3,"Pourquoi mon compte est-il bloqué ?","Votre compte peut être bloqué après plusieurs tentatives de connexion échouées. Contactez le support.","Problème de connexion","fr"
+4,"Comment changer mon adresse email de connexion ?","Allez dans les paramètres du compte et mettez à jour votre adresse email.","Problème de connexion","fr"
+5,"Pourquoi je ne reçois pas le code de vérification ?","Vérifiez votre dossier spam ou attendez quelques minutes avant de réessayer.","Problème de connexion","fr"
+6,"Que faire si l'application ne reconnaît pas mes identifiants ?","Assurez-vous que vous utilisez la bonne version de l'application et que vos identifiants sont corrects.","Problème de connexion","fr"
+7,"Pourquoi l'application se ferme-t-elle lors de la connexion ?","Essayez de redémarrer l'application ou de réinstaller la dernière version.","Problème de connexion","fr"
+8,"Comment mettre à jour mes informations de connexion ?","Accédez à votre profil utilisateur et mettez à jour vos informations.","Problème de connexion","fr"
+9,"Pourquoi je ne peux pas accéder à mon compte après une mise à jour ?","Essayez de vous déconnecter et de vous reconnecter ou contactez le support.","Problème de connexion","fr"
+10,"Que faire si mon compte a été piraté ?","Changez immédiatement votre mot de passe et contactez le support.","Problème de connexion","fr"
+11,"Pourquoi je ne reçois pas l'email de réinitialisation de mot de passe ?","Vérifiez votre dossier spam ou attendez quelques minutes. Si le problème persiste, contactez le support.","Problème de connexion","fr"
+12,"Que faire si l'application affiche 'Compte introuvable' ?","Assurez-vous que vous utilisez le bon email ou nom d'utilisateur. Si nécessaire, créez un nouveau compte.","Problème de connexion","fr"
+13,"Pourquoi l'application me redirige vers une page blanche après la connexion ?","Cela peut être dû à un problème de cache. Essayez de vider le cache de l'application ou de la réinstaller.","Problème de connexion","fr"
+14,"Comment vérifier si mon compte est actif ?","Contactez le support technique avec votre email ou nom d'utilisateur pour vérifier l'état de votre compte.","Problème de connexion","fr"
+15,"Pourquoi l'application me demande-t-elle de me reconnecter constamment ?","Cela peut être dû à un problème de session. Essayez de mettre à jour l'application ou de réinitialiser vos paramètres de connexion.","Problème de connexion","fr"
+16,"Que faire si je ne reçois pas de réponse du support technique ?","Vérifiez que vous avez contacté le support via le bon canal et réessayez. Vous pouvez aussi consulter la FAQ.","Problème de connexion","fr"
+17,"Pourquoi l'application ne reconnaît-elle pas mon nouveau mot de passe ?","Assurez-vous que vous avez correctement enregistré le nouveau mot de passe. Si le problème persiste, réinitialisez-le à nouveau.","Problème de connexion","fr"
+18,"Comment résoudre un problème de connexion lente ?","Vérifiez votre connexion Internet et fermez les applications en arrière-plan pour libérer de la mémoire.","Problème de connexion","fr"
+19,"Pourquoi l'application affiche-t-elle une erreur de serveur ?","Cela peut être dû à une maintenance ou à un problème temporaire. Réessayez plus tard.","Problème de connexion","fr"
+20,"Que faire si je ne me souviens plus de mon nom d'utilisateur ?"," contactez le support avec votre email associé.","Problème de connexion","fr"
+21,"Pourquoi l'application ne me permet-elle pas de créer un nouveau compte ?","Vérifiez que vous remplissez tous les champs requis et que vous utilisez une adresse email valide.","Problème de connexion","fr"
+22,"Comment savoir si mon compte a été suspendu ?","Contactez le support technique pour obtenir des informations sur l'état de votre compte.","Problème de connexion","fr"
+23,"Pourquoi l'application affiche-t-elle 'Connexion expirée' ?","Votre session a probablement expiré. Reconnectez-vous pour continuer.","Problème de connexion","fr"
+24,"Que faire si je ne peux pas accéder à mon email de récupération ?","Contactez le support technique pour vérifier d'autres options de récupération de compte.","Problème de connexion","fr"
+25,"Pourquoi l'application ne fonctionne-t-elle pas après une mise à jour du système d'exploitation ?","Assurez-vous que l'application est compatible avec votre version du système d'exploitation. Sinon, attendez une mise à jour de l'application.","Problème de connexion","fr"
+26,"Comment résoudre un problème de connexion avec un réseau Wi-Fi public ?","Essayez de vous connecter à un autre réseau ou utilisez vos données mobiles.","Problème de connexion","fr"
+27,"Pourquoi l'application affiche-t-elle 'Identifiants incorrects' même s'ils sont corrects ?","Cela peut être dû à un problème de cache. Essayez de vider le cache de l'application ou de la réinstaller.","Problème de connexion","fr"
+28,"Que faire si l'application ne répond pas après la saisie des identifiants ?","Redémarrez l'application ou réinstallez-la si le problème persiste.","Problème de connexion","fr"
+29,"Pourquoi l'application ne me permet-elle pas de changer mon mot de passe ?","Assurez-vous que vous respectez les exigences de complexité du mot de passe. Si le problème persiste, contactez le support.","Problème de connexion","fr"
+30,"Comment vérifier si l'application est en maintenance ?","Consultez les annonces officielles sur le site web ou les réseaux sociaux de l'application.","Problème de connexion","fr"
+31,"Pourquoi l'application affiche-t-elle une erreur de réseau ?","Vérifiez votre connexion Internet et réessayez. Si le problème persiste, contactez votre fournisseur d'accès.","Problème de connexion","fr"
+32,"Que faire si je ne reçois pas de notification de connexion ?","Vérifiez les paramètres de notification de l'application et assurez-vous qu'ils sont activés.","Problème de connexion","fr"
+33,"Pourquoi l'application ne reconnaît-elle pas mon adresse email ?","Assurez-vous que vous avez saisi l'adresse email correcte. Si nécessaire, contactez le support.","Problème de connexion","fr"
+34,"Comment résoudre un problème de connexion avec un compte désactivé ?","Contactez le support technique pour réactiver votre compte.","Problème de connexion","fr"
+35,"Pourquoi l'application affiche-t-elle une erreur de session ?","Déconnectez-vous et reconnectez-vous pour réinitialiser la session.","Problème de connexion","fr"
+36,"Que faire si je ne peux pas accéder à mon compte après un changement de téléphone ?","Utilisez la fonctionnalité de récupération de compte pour réinitialiser vos informations de connexion.","Problème de connexion","fr"
+37,"Pourquoi l'application ne me permet-elle pas de me connecter avec un compte existant ?","Assurez-vous que vous utilisez les bonnes informations de connexion. Si le problème persiste, contactez le support.","Problème de connexion","fr"
+38,"Comment résoudre un problème de connexion avec un compte verrouillé ?","Contactez le support technique pour déverrouiller votre compte.","Problème de connexion","fr"
+39,"Pourquoi l'application affiche-t-elle une erreur de certificat ?","Cela peut être dû à un problème de sécurité. Assurez-vous que votre appareil est à jour.","Problème de connexion","fr"
+40,"Que faire si je ne peux pas accéder à mon compte après une réinitialisation ?","Contactez le support technique pour vérifier l'état de votre compte.","Problème de connexion","fr"
+41,"Pourquoi l'application ne reconnaît-elle pas mon numéro de téléphone ?","Assurez-vous que vous avez saisi le bon numéro de téléphone. Si nécessaire, contactez le support.","Problème de connexion","fr"
+42,"Comment résoudre un problème de connexion avec un compte suspendu ?","Contactez le support technique pour vérifier les raisons de la suspension.","Problème de connexion","fr"
+43,"Pourquoi l'application affiche-t-elle une erreur de connexion sécurisée ?","Assurez-vous que votre connexion Internet est sécurisée. Si le problème persiste, contactez votre fournisseur d'accès.","Problème de connexion","fr"
+44,"Que faire si je ne peux pas accéder à mon compte après une mise à jour de l'application ?","Essayez de réinstaller l'application ou de contacter le support.","Problème de connexion","fr"
+45,"Pourquoi l'application ne me permet-elle pas de me connecter avec un compte social ?","Assurez-vous que vous avez autorisé l'application à accéder à votre compte social.","Problème de connexion","fr"
+46,"Comment résoudre un problème de connexion avec un compte supprimé ?","Contactez le support technique pour vérifier si votre compte peut être restauré.","Problème de connexion","fr"
+47,"Pourquoi l'application affiche-t-elle une erreur de connexion temporaire ?","Cela peut être dû à une maintenance ou à un problème temporaire. Réessayez plus tard.","Problème de connexion","fr"
+48,"Que faire si je ne peux pas accéder à mon compte après un changement de mot de passe ?","Assurez-vous que vous utilisez le nouveau mot de passe. Si nécessaire, réinitialisez-le à nouveau.","Problème de connexion","fr"
+49,"Pourquoi l'application ne reconnaît-elle pas mon adresse email de récupération ?","Assurez-vous que vous avez saisi l'adresse email correcte. Si nécessaire, contactez le support.","Problème de connexion","fr"
+50,"Comment résoudre un problème de connexion avec un compte inactif ?","Contactez le support technique pour réactiver votre compte.","Problème de connexion","fr"
+
+
+51، "لماذا لا يمكنني تسجيل الدخول إلى حسابي؟"، "تحقق من اتصالك بالإنترنت وتأكد من صحة بيانات الاعتماد الخاصة بك"، "مشكلة في الاتصال"،
+52، "ماذا يجب أن أفعل إذا نسيت كلمة المرور الخاصة بي؟"، "استخدم ميزة "نسيت كلمة المرور" لإعادة تعيين كلمة المرور الخاصة بك."، "مشكلة تسجيل الدخول"،
+53، "لماذا تم حظر حسابي؟"، "قد يتم حظر حسابك بعد عدة محاولات تسجيل دخول فاشلة. اتصل بالدعم"، "مشكلة تسجيل الدخول"، "ar"
+54، "كيف يمكنني تغيير عنوان البريد الإلكتروني لتسجيل الدخول؟"، "انتقل إلى إعدادات الحساب وقم بتحديث عنوان بريدك الإلكتروني"، "مشكلة تسجيل الدخول"،
+55، "لماذا لا أتلقى رمز التحقق؟"، "تحقق من مجلد البريد العشوائي أو انتظر بضع دقائق قبل المحاولة مرة أخرى"، "مشكلة في الاتصال"، "ar"
+56، "ماذا يجب أن أفعل إذا لم يتعرف التطبيق على بيانات الاعتماد الخاصة بي؟"، "تأكد من استخدامك للإصدار الصحيح من التطبيق وأن بيانات الاعتماد الخاصة بك صحيحة"، "مشكلة في الاتصال"،
+57، "لماذا يتم إغلاق التطبيق عند تسجيل الدخول؟"، "حاول إعادة تشغيل التطبيق أو إعادة تثبيت الإصدار الأحدث"، "مشكلة تسجيل الدخول"،
+58، "كيف أقوم بتحديث معلومات تسجيل الدخول الخاصة بي؟"، "انتقل إلى ملف تعريف المستخدم الخاص بك وقم بتحديث معلوماتك"، "مشكلة تسجيل الدخول"،
+59، "لماذا لا يمكنني الوصول إلى حسابي بعد التحديث؟"، "حاول تسجيل الخروج ثم تسجيل الدخول مرة أخرى أو الاتصال بالدعم"، "مشكلة تسجيل الدخول"،
+60، "ماذا يجب أن أفعل إذا تم اختراق حسابي؟"، "قم بتغيير كلمة المرور الخاصة بك على الفور واتصل بالدعم"، "مشكلة تسجيل الدخول"،
+61، "لماذا لا أتلقى رسالة بريد إلكتروني لإعادة تعيين كلمة المرور؟"، "تحقق من مجلد البريد العشوائي أو انتظر بضع دقائق. إذا استمرت المشكلة، فاتصل بالدعم"، "مشكلة تسجيل الدخول"، "ar"
+62، "ماذا تفعل إذا قال التطبيق "لم يتم العثور على الحساب"؟"، "تأكد من استخدام البريد الإلكتروني أو اسم المستخدم الصحيح. إذا لزم الأمر، قم بإنشاء حساب جديد"، "مشكلة في الاتصال"، "ar"
+63، "لماذا يعيد التطبيق توجيهي إلى صفحة فارغة بعد تسجيل الدخول؟"، "قد يكون هذا بسبب مشكلة في ذاكرة التخزين المؤقت. حاول مسح ذاكرة التخزين المؤقت للتطبيق أو إعادة تثبيته."، "مشكلة تسجيل الدخول"، "ar"
+64، "كيف يمكنني التحقق من أن حسابي نشط؟"، "اتصل بالدعم الفني باستخدام بريدك الإلكتروني أو اسم المستخدم للتحقق من حالة حسابك"، "مشكلة تسجيل الدخول"،
+65، "لماذا يستمر التطبيق في مطالبتي بتسجيل الدخول مرة أخرى؟"، "قد يكون هذا بسبب مشكلة في الجلسة. حاول تحديث التطبيق أو إعادة تعيين إعدادات تسجيل الدخول الخاصة بك."، "مشكلة تسجيل الدخول"،
+66، "ماذا علي أن أفعل إذا لم أتلق ردًا من الدعم الفني؟"، "تأكد من أنك اتصلت بالدعم من خلال القناة الصحيحة وحاول مرة أخرى. يمكنك أيضًا الرجوع إلى الأسئلة الشائعة"، "مشكلة في الاتصال"، "ar"
+67، "لماذا لا يتعرف التطبيق على كلمة المرور الجديدة الخاصة بي؟"، "تأكد من حفظ كلمة المرور الجديدة بشكل صحيح. إذا استمرت المشكلة، فأعد تعيينها مرة أخرى"، "مشكلة في الاتصال"، "ar"
+68،"كيفية إصلاح مشكلة الاتصال البطيء؟"،"تحقق من اتصالك بالإنترنت وأغلق التطبيقات في الخلفية لتحرير الذاكرة."،"مشكلة الاتصال"،"ar"
+69، "لماذا يظهر التطبيق خطأ في الخادم؟"، "قد يكون هذا بسبب الصيانة أو مشكلة مؤقتة. يرجى المحاولة مرة أخرى لاحقًا"، "مشكلة في الاتصال"، "ar"
+70، "ماذا يجب أن أفعل إذا لم أتذكر اسم المستخدم الخاص بي؟"، "استخدم ميزة "نسيت اسم المستخدم" أو اتصل بالدعم باستخدام البريد الإلكتروني المرتبط بك"، "مشكلة تسجيل الدخول"،
+71، "لماذا لا يسمح لي التطبيق بإنشاء حساب جديد؟"، "تأكد من ملء جميع الحقول المطلوبة واستخدام عنوان بريد إلكتروني صالح"، "مشكلة في الاتصال"،
+72،"كيف أعرف إذا تم تعليق حسابي؟"،"اتصل بالدعم الفني للحصول على معلومات حول حالة حسابك."،"مشكلة تسجيل الدخول"،"ar"
+73، "لماذا يعرض التطبيق رسالة "انتهت مهلة الاتصال"؟"، "ربما انتهت جلستك. سجّل الدخول مرة أخرى للمتابعة"، "مشكلة في الاتصال"، "ar"
+74، "ماذا يجب أن أفعل إذا لم أتمكن من الوصول إلى بريدي الإلكتروني الخاص بالاسترداد؟"، "اتصل بالدعم للتحقق من خيارات استرداد الحساب الأخرى"، "مشكلة تسجيل الدخول"،
+75، "لماذا لا يعمل التطبيق بعد تحديث نظام التشغيل؟"، "تأكد من أن التطبيق متوافق مع إصدار نظام التشغيل لديك. إذا لم يكن كذلك، فانتظر تحديث التطبيق"، "مشكلة في الاتصال"، "ar"
+76،"كيف يمكن إصلاح مشكلة الاتصال بشبكة Wi-Fi عامة؟"،"حاول الاتصال بشبكة أخرى أو استخدم بيانات الهاتف المحمول الخاصة بك"،"مشكلة الاتصال"،"ar"
+77,"How to fix a connection problem with a public Wi-Fi network?","Try connecting to another network or use your mobile data.","Connection problem","en"
+78,"Why can't I log in to my account?","Check your internet connection and make sure your credentials are correct.","Sign in problem","en"
+79,"What should I do if I forgot my password?","Use the 'Forgot Password' feature to reset your password.","Sign in problem","en"
+80,"Why is my account locked?","Your account may be locked after several failed login attempts. Contact support.","Sign in problem","en"
+81,"How do I change my login email address?","Go to account settings and update your email address.","Sign in problem","en"
+82,"Why am I not receiving the verification code?","Check your spam folder or wait a few minutes before trying again.","Sign in problem","en"
+83,"What should I do if the app doesn't recognize my credentials?","Make sure you're using the right version of the app and that your credentials are correct. correct.","Sign-in problem","en"
+84,"Why does the app close when logging in?","Try restarting the app or reinstalling the latest version.","Sign-in problem","en"
+85,"How do I update my login information?","Go to your user profile and update your information.","Sign-in problem","en"
+86,"Why can't I access my account after an update?","Try logging out and logging back in or contact support.","Sign-in problem","en"
+87,"What should I do if my account has been hacked?","Change your password immediately and contact support.","Sign-in problem","en"
+88,"Why am I not receiving the password reset email?","Check your spam folder or wait a few minutes. If the problem persists, contact support.","Sign-in problem","en"
+89,"What to do if the app says 'Account not found'?","Make sure you are using the correct email or username. If necessary, create a new account.","Sign-in problem","en"
+90,"Why does the app redirect me to a blank page after logging in?","This may be due to a cache issue. Try clearing the app's cache or reinstalling it.","Sign-in problem","en"
+91,"How do I check if my account is active?","Contact support with your email or username to check the status of your account.","Sign-in problem","en"
+92,"Why does the app keep asking me to log in again?","This may be due to a session issue. Try updating the app or resetting your login settings.","Login issue","en"
+93,"What should I do if I don't get a response from support?","Make sure you contacted support through the correct channel and try again. You can also check the FAQ.","Login issue","en"
+94,"Why doesn't the app recognize my new password?","Make sure you saved the new password correctly. If the problem persists, reset it again.","Login issue","en"
+95,"How do I fix a slow connection?","Check your internet connection and close background apps to free up memory.","Login issue","en"
+96,"Why does the app show a server error?","This could be due to maintenance or a temporary issue. Try again later.","Sign in problem","en"
+97,"What should I do if I can't remember my username?","Use the 'Forgotten Username' feature or contact support with your associated email.","Sign in problem","en"
+98,"Why won't the app let me create a new account?","Make sure you fill out all the required fields and are using a valid email address.","Sign in problem","en"
+99,"How do I know if my account has been suspended?","Contact support for information on your account status.","Sign in problem","en"
+100,"Why does the app say 'Login timed out'?","Your session has probably expired. Please sign in again to continue.","Sign in problem","en"
+101,"What should I do if I can't access my recovery email?","Contact support to check other account recovery options.","Sign in problem","en"
+102,"Why isn't the app working after an OS update?","Make sure the app is compatible with your OS version. If not, wait for an app update.","Sign in problem","en"
+
+103,"J'ai des problèmes de peau, à quel spécialiste dois-je m'adresser ?","Pour des problèmes de peau, consultez un dermatologue.","Dermatologie",Français
+104,"Qui consulter pour un traitement de l'acné sévère ?","Un dermatologue est le spécialiste à consulter pour un traitement de l'acné sévère.","Dermatologie",Français
+105,"J'ai des douleurs articulaires, qui dois-je consulter ?","Pour des douleurs articulaires, consultez un rhumatologue.","Rhumatologie",Français
+106,"Quel spécialiste consulter pour de l'arthrite ?","Un rhumatologue est le spécialiste à consulter pour de l'arthrite.","Rhumatologie",Français
+107,"J'ai des problèmes de vision, à qui m'adresser ?","Pour des problèmes de vision, consultez un ophtalmologue.","Ophtalmologie",Français
+108,"Qui consulter pour une chirurgie des yeux ?","Un ophtalmologue est le spécialiste à consulter pour une chirurgie des yeux.","Ophtalmologie",Français
+109,"J'ai des problèmes cardiaques, qui dois-je voir ?","Pour des problèmes cardiaques, consultez un cardiologue.","Cardiologie",Français
+110,"Quel spécialiste consulter pour un suivi après une crise cardiaque ?","Un cardiologue est le spécialiste à consulter pour un suivi après une crise cardiaque.","Cardiologie",Français
+111,"J'ai des troubles digestifs, à qui m'adresser ?","Pour des troubles digestifs, consultez un gastro-entérologue.","Gastro-entérologie",Français
+112,"Qui consulter pour des douleurs à l'estomac persistantes ?","Un gastro-entérologue est le spécialiste à consulter pour des douleurs à l'estomac persistantes.","Gastro-entérologie",Français
+113,"J'ai des problèmes respiratoires, qui consulter ?","Pour des problèmes respiratoires, consultez un pneumologue.","Pneumologie",Français
+114,"Quel spécialiste consulter pour de l'asthme ?","Un pneumologue est le spécialiste à consulter pour de l'asthme.","Pneumologie",Français
+115,"J'ai des problèmes hormonaux, à qui m'adresser ?","Pour des problèmes hormonaux, consultez un endocrinologue.","Endocrinologie",Français
+116,"Qui consulter pour un traitement du diabète ?","Un endocrinologue est le spécialiste à consulter pour un traitement du diabète.","Endocrinologie",Français
+117,"J'ai des problèmes de reins, qui dois-je voir ?","Pour des problèmes de reins, consultez un néphrologue.","Néphrologie",Français
+118,"Quel spécialiste consulter pour une insuffisance rénale ?","Un néphrologue est le spécialiste à consulter pour une insuffisance rénale.","Néphrologie",Français
+
+119,"J'ai des problèmes de foie, à qui m'adresser ?","Pour des problèmes de foie, consultez un hépatologue.","Hépatologie",Français
+120,"Qui consulter pour une hépatite ?","Un hépatologue est le spécialiste à consulter pour une hépatite.","Hépatologie",Français
+121,"J'ai des problèmes neurologiques, qui consulter ?","Pour des problèmes neurologiques, consultez un neurologue.","Neurologie",Français
+122,"Quel spécialiste consulter pour des migraines fréquentes ?","Un neurologue est le spécialiste à consulter pour des migraines fréquentes.","Neurologie",Français
+123,"J'ai des problèmes psychologiques, à qui m'adresser ?","Pour des problèmes psychologiques, consultez un psychiatre ou un psychologue.","Psychiatrie/Psychologie",Français
+124,"Qui consulter pour un traitement de la dépression ?","Un psychiatre est le spécialiste à consulter pour un traitement de la dépression.","Psychiatrie/Psychologie",Français
+125,"J'ai des problèmes gynécologiques, qui dois-je voir ?","Pour des problèmes gynécologiques, consultez un gynécologue.","Gynécologie",Français
+126,"Quel spécialiste consulter pour un suivi de grossesse ?","Un gynécologue est le spécialiste à consulter pour un suivi de grossesse.","Gynécologie",Français
+127,"J'ai des problèmes urinaires, à qui m'adresser ?","Pour des problèmes urinaires, consultez un urologue.","Urologie",Français
+128,"Qui consulter pour des infections urinaires fréquentes ?","Un urologue est le spécialiste à consulter pour des infections urinaires fréquentes.","Urologie",Français
+129,"J'ai des problèmes ORL, qui consulter ?","Pour des problèmes ORL (oreilles, nez, gorge), consultez un ORL.","ORL",Français
+130,"Quel spécialiste consulter pour des otites à répétition ?","Un ORL est le spécialiste à consulter pour des otites à répétition.","ORL",Français
+131,"J'ai des problèmes dentaires, à qui m'adresser ?","Pour des problèmes dentaires, consultez un dentiste ou un stomatologue.","Dentisterie/Stomatologie",Français
+132,"Qui consulter pour une extraction dentaire ?","Un dentiste ou un stomatologue est le spécialiste à consulter pour une extraction dentaire.","Dentisterie/Stomatologie",Français
+133,"J'ai besoin de rééducation après une blessure, qui consulter ?","Pour une rééducation après une blessure, consultez un kinésithérapeute.","Kinésithérapie",Français
+134,"Quel spécialiste consulter pour des séances de rééducation post-opératoire ?","Un kinésithérapeute est le spécialiste à consulter pour des séances de rééducation post-opératoire.","Kinésithérapie",Français
+135,"Je veux améliorer mon alimentation, à qui m'adresser ?","Pour améliorer votre alimentation, consultez un nutritioniste ou un diététicien.","Nutrition",Français
+136,"Qui consulter pour un régime adapté à mon état de santé ?","Un nutritioniste ou un diététicien est le spécialiste à consulter pour un régime adapté à votre état de santé.","Nutrition",Français
+137,"Mon enfant a de la fièvre, qui dois-je consulter ?","Pour un enfant qui a de la fièvre, consultez un pédiatre.","Pédiatrie",Français
+138,"Quel spécialiste consulter pour le suivi de la croissance de mon enfant ?","Un pédiatre est le spécialiste à consulter pour le suivi de la croissance de votre enfant.","Pédiatrie",Français
+139,"Mon enfant a des troubles du comportement, qui consulter ?","Pour des troubles du comportement chez un enfant, consultez un pédopsychiatre.","Pédopsychiatrie",Français
+140,"Quel spécialiste consulter pour des problèmes d'anxiété chez un adolescent ?","Un pédopsychiatre est le spécialiste à consulter pour des problèmes d'anxiété chez un adolescent.","Pédopsychiatrie",Français
+
+141,"I have skin problems, which specialist should I see?","For skin problems, see a dermatologist.","Dermatology",En
+142,"Who should I see for severe acne treatment?","A dermatologist is the specialist to see for severe acne treatment.","Dermatology",En
+143,"I have joint pain, who should I see?","For joint pain, see a rheumatologist.","Rheumatology",En
+144,"Which specialist should I see for arthritis?","A rheumatologist is the specialist to see for arthritis.","Rheumatology",En
+145,"I have vision problems, who should I see?","For vision problems, see an ophthalmologist.","Ophthalmology",En
+146,"Who should I see for eye surgery?","An ophthalmologist is the specialist to see for eye surgery. eyes.","Ophthalmology",En
+147,"I have heart problems, who should I see?","For heart problems, see a cardiologist.","Cardiology",En
+148,"Which specialist should I see for follow-up after a heart attack?","A cardiologist is the specialist to see for follow-up after a heart attack.","Cardiology",En
+149,"I have digestive problems, who should I see?","For digestive problems, see a gastroenterologist.","Gastroenterology",En
+150,"Who should I see for persistent stomach pain?","A gastroenterologist is the specialist to see for persistent stomach pain.","Gastroenterology",En
+151,"I have breathing problems, who should I see?","For breathing problems, see a pulmonologist.","Pulmonology",En
+152,"Which specialist should I see for asthma?","A pulmonologist is the specialist to see for asthma.","Pneumology",En
+153,"I have hormonal problems, who should I see?","For hormonal problems, see an endocrinologist.","Endocrinology",En
+154,"Who should I see for diabetes treatment?","An endocrinologist is the specialist to see for diabetes treatment.","Endocrinology",En
+155,"I have kidney problems, who should I see?","For kidney problems, see a nephrologist.","Nephrology",En
+156,"Which specialist should I see for kidney failure?","A nephrologist is the specialist to see for kidney failure.","Nephrology",En
+
+157,"I have liver problems, who should I contact?","For liver problems, consult a hepatologist.","Hepatology",En
+158,"Who should I consult for hepatitis?","A hepatologist is the specialist to consult for hepatitis.","Hepatology",En
+159,"I have neurological problems, who should I consult?","For neurological problems, consult a neurologist.","Neurology",En
+160,"Which specialist should I consult for frequent migraines?","A neurologist is the specialist to consult for frequent migraines.","Neurology",En
+161,"I have psychological problems, who should I contact?","For psychological problems, consult a psychiatrist or psychologist.","Psychiatry/Psychology",En
+162"Who should I consult for depression treatment?","A psychiatrist is the specialist to consult for depression treatment.","Psychiatry/Psychology",En
+163,"I have gynecological, who should I see?","For gynecological problems, consult a gynecologist.","Gynecology",En
+164,"Which specialist should I consult for pregnancy monitoring?","A gynecologist is the specialist to consult for pregnancy monitoring.","Gynecology",En
+165,"I have urinary problems, who should I contact?","For urinary problems, consult a urologist.","Urology",En
+166,"Who should I consult for frequent urinary tract infections?","A urologist is the specialist to consult for frequent urinary tract infections.","Urology",En
+167,"I have ENT problems, who should I consult?","For ENT problems (ears, nose, throat), consult an ENT.","ENT",En
+
+168,"Which specialist should I consult for repeated ear infections?","An ENT is the specialist to consult for repeated ear infections.","ENT",En
+169,"I have dental problems, who should I contact?","For dental problems, consult a dentist or a stomatologist.","Dentistry/Stomatology",En
+170,"Who should I consult for a tooth extraction?","A dentist or a stomatologist is the specialist to consult for a tooth extraction.","Dentistry/Stomatology",En
+171,"I need rehabilitation after an injury, who should I consult?","For rehabilitation after an injury, consult a physiotherapist.","Physiotherapy",En
+172,"Which specialist should I consult for post-operative rehabilitation sessions?","A physiotherapist is the specialist to consult for post-operative rehabilitation sessions.","Physiotherapy",En
+173,"I want to improve my diet, who should I contact?","To improve your diet, consult a nutritionist or dietician.","Nutrition",En
+174,"Who should I consult for a diet adapted to my state of health?","A nutritionist or dietician is the specialist to consult for a diet adapted to your state of health.","Nutrition",En
+175,"My child has a fever, who should I consult?","For a child who has a fever, consult a pediatrician.","Pediatrics",En
+176,"Which specialist should I consult to monitor my child's growth?","A pediatrician is the specialist to consult to monitor your child's growth.","Pediatrics",En
+177,"My child has behavioral problems, who should I consult?","For behavioral problems in a child, consult a child psychiatrist.","Child psychiatry",En
+178,"Which specialist should I consult for anxiety problems in an adolescent?","A child psychiatrist is the specialist to consult for anxiety problems in an adolescent.","Child psychiatry",En
+
+179، "لدي مشاكل جلدية، أي أخصائي يجب أن أزوره؟"، "لمشاكل الجلد، راجع طبيب الأمراض الجلدية"، "طب الجلدية"، العربية
+180، "من يجب أن أراه لعلاج حب الشباب الشديد؟"، "طبيب الأمراض الجلدية هو المتخصص الذي يجب أن أراه لعلاج حب الشباب الشديد"، "طب الأمراض الجلدية"، العربية
+181، "أعاني من آلام المفاصل، من يجب أن أزوره؟"، "لآلام المفاصل، راجع طبيب أمراض الروماتيزم"، "طب الروماتيزم"، العربية
+182، "أي أخصائي يجب أن أراه لالتهاب المفاصل؟"، "أخصائي أمراض الروماتيزم هو المتخصص الذي يجب أن أراه لالتهاب المفاصل"، "طب الروماتيزم"، العربية
+183، "لدي مشاكل في الرؤية، من يجب أن أزوره؟"، "في حالة مشاكل الرؤية، راجع طبيب عيون"، "طب العيون"، العربية
+184، "من يجب أن أراه لإجراء جراحة العيون؟"، "طبيب العيون هو المتخصص الذي يجب أن أراه لإجراء جراحة العيون. العيون."، "طب العيون"، العربية
+185، "لدي مشاكل في القلب، من يجب أن أزوره؟"، "لمشاكل القلب، راجع طبيب القلب"، "أمراض القلب"، العربية
+186، "أي أخصائي يجب أن أراه للمتابعة بعد الإصابة بنوبة قلبية؟"، "طبيب القلب هو المتخصص الذي يجب أن أراه للمتابعة بعد الإصابة بنوبة قلبية"، "طب القلب"، العربية
+186، "لدي مشاكل في الجهاز الهضمي، من يجب أن أزوره؟"، "في حالة وجود مشاكل في الجهاز الهضمي، راجع طبيب أمراض الجهاز الهضمي"، "طب الجهاز الهضمي"، العربية
+157، "من يجب أن أراه في حالة آلام المعدة المستمرة؟"، "طبيب الجهاز الهضمي هو المتخصص الذي يجب أن أراه في حالة آلام المعدة المستمرة"، "طب الجهاز الهضمي"، العربية
+188، "لدي مشاكل في التنفس، من يجب أن أزوره؟"، "في حالة مشاكل التنفس، راجع طبيب أمراض الرئة"، "طب الرئة"، العربية
+189، "أي أخصائي يجب أن أراه في حالة الربو؟"، "طبيب الرئة هو المتخصص الذي يجب أن أراه في حالة الربو"، "طب الرئة"، العربية
+190، "لدي مشاكل هرمونية، من يجب أن أزوره؟"، "في حالة وجود مشاكل هرمونية، راجع طبيب الغدد الصماء"، "الغدد الصماء"، العربية
+191، "من يجب أن أراه لعلاج مرض السكري؟"، "طبيب الغدد الصماء هو المتخصص الذي يجب أن أراه لعلاج مرض السكري"، "طب الغدد الصماء"، العربية
+192، "لدي مشاكل في الكلى، من يجب أن أزوره؟"، "في حالة مشاكل الكلى، راجع طبيب أمراض الكلى"، "طب الكلى"، العربية
+193، "أي أخصائي يجب أن أراه في حالة الفشل الكلوي؟"، "طبيب أمراض الكلى هو المتخصص الذي يجب أن أراه في حالة الفشل الكلوي"، "طب الكلى"، العربية
+194، "لدي مشاكل في الكبد، من يجب أن أتصل به؟"، "بالنسبة لمشاكل الكبد، استشر طبيب أمراض الكبد"، "أمراض الكبد"، العربية
+195، "من يجب أن أستشيره في حالة التهاب الكبد؟"، "طبيب الكبد هو المتخصص الذي يجب استشارته في حالة التهاب الكبد"، "طب الكبد"، العربية
+196، "لدي مشاكل عصبية، من يجب أن أستشيره؟"، "في حالة وجود مشاكل عصبية، استشر طبيب أعصاب"، "علم الأعصاب"، فرنسي
+197،"أي أخصائي يجب أن أستشيره في حالة الصداع النصفي المتكرر؟"،"طبيب الأعصاب هو المتخصص الذي يجب استشارته في حالة الصداع النصفي المتكرر"،"علم الأعصاب"،العربية
+198، "لدي مشاكل نفسية، من يجب أن أتصل به؟"، "في حالة وجود مشاكل نفسية، استشر طبيبًا نفسيًا أو معالجًا نفسيًا"، "الطب النفسي/علم النفس"، فرنسي
+199، "من يجب أن أستشيره لعلاج الاكتئاب؟"، "الطبيب النفسي هو المتخصص الذي يجب استشارته لعلاج الاكتئاب"، "الطب النفسي/علم النفس"، العربية
+200، "لدي مشكلة في أمراض النساء، من يجب أن أزوره؟"، "في حالة وجود مشاكل في أمراض النساء، استشر طبيب أمراض النساء"، "أمراض النساء"، العربية
+201، "أي أخصائي يجب أن أستشيره لمراقبة الحمل؟"، "طبيب أمراض النساء هو المتخصص الذي يجب استشارته لمراقبة الحمل"، "أمراض النساء"، العربية
+202، "لدي مشاكل في المسالك البولية، من يجب أن أتصل به؟"، "في حالة وجود مشاكل في المسالك البولية، استشر طبيب المسالك البولية"، "طب المسالك البولية"، العربية
+203، "من يجب أن أستشيره في حالة الإصابة المتكررة بالتهابات المسالك البولية؟"، "طبيب المسالك البولية هو المتخصص الذي يجب استشارته في حالة الإصابة المتكررة بالتهابات المسالك البولية"، "طب المسالك البولية"، العربية
+204، "لدي مشاكل في الأنف والأذن والحنجرة، من يجب أن أستشيره؟"، "بالنسبة لمشاكل الأنف والأذن والحنجرة (الأذن والأنف والحنجرة)، استشر طبيب الأنف والأذن والحنجرة"، "الأنف والأذن والحنجرة"، العربية
+
+205، "أي أخصائي يجب أن أستشيره في حالة تكرار التهابات الأذن؟"، "أخصائي الأنف والأذن والحنجرة هو المتخصص الذي يجب استشارته في حالة تكرار التهابات الأذن"، "أخصائي الأنف والأذن والحنجرة"، العربية
+206، "لدي مشاكل في الأسنان، من يجب أن أتصل به؟"، "في حالة وجود مشاكل في الأسنان، استشر طبيب أسنان أو طبيب أسنان"، "طب الأسنان/طب الأسنان"، العربية
+207، "من يجب أن أستشيره لخلع الأسنان؟"، "طبيب الأسنان أو طبيب الأسنان هو المتخصص الذي يجب استشارته لخلع الأسنان"، "طب الأسنان/طب الأسنان"، العربية
+208، "أحتاج إلى إعادة تأهيل بعد الإصابة، من يجب أن أتشاور معه؟"، "لإعادة التأهيل بعد الإصابة، استشر أخصائي العلاج الطبيعي"، "العلاج الطبيعي"،
+209، "أي أخصائي يجب أن أستشيره لجلسات إعادة التأهيل بعد الجراحة؟"، "أخصائي العلاج الطبيعي هو المتخصص الذي يجب استشارته لجلسات إعادة التأهيل بعد الجراحة"، "العلاج الطبيعي"، العربية
+210، "أريد تحسين نظامي الغذائي، من يجب أن أتواصل معه؟"، "لتحسين نظامك الغذائي، استشر أخصائي تغذية أو أخصائي تغذية"، "التغذية"، العربية
+211،"من يجب أن أستشيره للحصول على نظام غذائي يناسب حالتي الصحية؟"،"أخصائي التغذية أو أخصائي التغذية هو المتخصص الذي يجب استشارته للحصول على نظام غذائي يناسب حالتك الصحية."،"التغذية"،العربية
+212،"طفلي يعاني من الحمى، من يجب أن أستشيره؟"،"في حالة إصابة الطفل بالحمى، يجب استشارة طبيب الأطفال"،"طب الأطفال"،العربية
+213،"أي أخصائي يجب أن أستشيره لمراقبة نمو طفلي؟"،"طبيب الأطفال هو المتخصص الذي يجب استشارته لمراقبة نمو طفلك."،"طب الأطفال"،العربية
+214، "طفلي يعاني من مشاكل سلوكية، من يجب أن أستشيره؟"، "في حالة وجود مشاكل سلوكية لدى الطفل، استشر طبيب نفس الأطفال"، "طب نفس الأطفال"،
+215، "أي أخصائي يجب أن أستشيره في مشاكل القلق لدى المراهقين؟"، "طبيب نفس الأطفال هو المتخصص الذي يجب استشارته في مشاكل القلق لدى المراهقين"، "طب نفس الأطفال"،
