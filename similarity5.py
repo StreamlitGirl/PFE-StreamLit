@@ -1,4 +1,5 @@
 import pandas as pd
+import time
 import streamlit as st
 import joblib
 import nltk
@@ -64,6 +65,7 @@ def predict_answer(user_input):
     translatuser = Translator (to_lang = lang )
     t = " You are speaking in : "
     language = GoogleTranslator(source="en", target=lang).translate(t)
+    time.spleep(2)
     st.write(language +"  " + lang)
   
     
